@@ -5,5 +5,7 @@ public class Main {
         //Conflicto A
 
         //ConflictoB
+        VehicleFactory fact = (VehicleFactory) VehicleFactory.getVehicle("car");
+
     }
 }
